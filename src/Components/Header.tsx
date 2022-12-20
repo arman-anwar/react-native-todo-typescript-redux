@@ -4,7 +4,7 @@ import { View,StyleSheet } from "react-native"
 export default function Header() {
     return (
         <View style={styles.header}>
-            <Text style={styles.text}>Scan QR Code App</Text>
+            <Text style={styles.text}>Todo App</Text>
         </View>
     )
 }

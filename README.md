@@ -1,4 +1,4 @@
-# react-native-qr-code-scanner-app
+# react-native-todo-typescript-redux
 
 
 Typescript

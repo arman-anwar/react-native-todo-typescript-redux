@@ -5,6 +5,4 @@ export type Props = {
     GlobalState?:any;
 }
 
-export interface QRCode { id: number, code: string }
-
 export interface Task { id: number, code: string }
